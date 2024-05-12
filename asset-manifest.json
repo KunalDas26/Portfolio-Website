@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/KunalDas26.github.io/Portfolio-Website/static/css/main.744be34b.css",
+    "main.js": "/KunalDas26.github.io/Portfolio-Website/static/js/main.45909103.js",
+    "static/media/imagePortfolio.jpg": "/KunalDas26.github.io/Portfolio-Website/static/media/imagePortfolio.f90560d44775f619260f.jpg",
+    "static/media/dailyDose.jpg": "/KunalDas26.github.io/Portfolio-Website/static/media/dailyDose.2e8de0a33bef6e3fee15.jpg",
+    "static/media/netMovie.jpg": "/KunalDas26.github.io/Portfolio-Website/static/media/netMovie.a5a3cb65d7cbfdd086f7.jpg",
+    "static/media/menuOrder.jpg": "/KunalDas26.github.io/Portfolio-Website/static/media/menuOrder.fd29ce67c3dd777f4ecf.jpg",
+    "static/media/mcommerce.jpg": "/KunalDas26.github.io/Portfolio-Website/static/media/mcommerce.0c0ca8ccc6a797b0f3f9.jpg",
+    "static/media/kunalImage.jpg": "/KunalDas26.github.io/Portfolio-Website/static/media/kunalImage.011e353c7363e9a2d814.jpg",
+    "static/media/java.png": "/KunalDas26.github.io/Portfolio-Website/static/media/java.8c12ad4bfc57e64e16ea.png",
+    "static/media/todoList.jpg": "/KunalDas26.github.io/Portfolio-Website/static/media/todoList.a723621c215ac10604a0.jpg",
+    "static/media/python.png": "/KunalDas26.github.io/Portfolio-Website/static/media/python.e84beb84ba7016f8ec5e.png",
+    "static/media/react.png": "/KunalDas26.github.io/Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/KunalDas26.github.io/Portfolio-Website/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/nextjs.png": "/KunalDas26.github.io/Portfolio-Website/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/html.png": "/KunalDas26.github.io/Portfolio-Website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/KunalDas26.github.io/Portfolio-Website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/KunalDas26.github.io/Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/KunalDas26.github.io/Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/KunalDas26.github.io/Portfolio-Website/index.html",
+    "main.744be34b.css.map": "/KunalDas26.github.io/Portfolio-Website/static/css/main.744be34b.css.map",
+    "main.45909103.js.map": "/KunalDas26.github.io/Portfolio-Website/static/js/main.45909103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.744be34b.css",
+    "static/js/main.45909103.js"
+  ]
+}
